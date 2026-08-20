@@ -9,7 +9,7 @@
 
 ```bash
 git clone https://github.com/z1gres/nighthawk
-cd blackbird
+cd nighthawk
 ```
 
 **Install requirements**
