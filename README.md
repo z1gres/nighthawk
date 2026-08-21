@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/z1gres/nighthawk/main/assets/img/preview.png" alt="NightHawk Banner" width="700">
 
-> Blackbird is a powerful OSINT tool that combines fast username and email searches across more than 600 platforms with free AI-powered profiling. By leveraging community-driven projects like WhatsMyName, it ensures low false positive rates and high-quality results. Features include smart filters, polished PDF/CSV exports, and fully automated analysis — all from a single CLI.
+> Blackbird is a powerful 0S1NT tool that combines fast username and email searches across more than 600 platforms with free AI-powered profiling. By leveraging community-driven projects like WhatsMyName, it ensures low false positive rates and high-quality results. Features include smart filters, polished PDF/CSV exports, and fully automated analysis — all from a single CLI.
 <br>
 
 [![SherlockEyeCover](./docs/.gitbook/assets/sherlockeye_cover.jpg)](https://cutt.ly/frtVNzQQ)
